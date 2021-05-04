@@ -57,6 +57,8 @@ We'll advertise this in personal-finance related forums.
 
 I'm looking for a few people to help split the workload, and especially to work on the frontend. Later on, we'll need more business folks.
 
+If you're interested, please comment on [this issue](https://github.com/BYUCS452S2021/CreditCardRewardsTracker/issues/1).
+
 ### Disclaimers
 
 This is a class project to explore database design and usage with relational and NoSQL databases.
